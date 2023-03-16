@@ -3,7 +3,7 @@
 ### :rocket: Projeto
 
 RocketQ foi criado para gerenciar perguntas anônimas de usuários direcionadas ao dono da página. Desenvolvido na semana NLW Rocketseat, pela tutora Jakeliny Gracielly.
-Baixe este repositório e com seu teminal, entre no diretório e execute o comando **npm install** para instalar as dependências. 
+Baixe este repositório e com seu terminal, entre no diretório e execute o comando **npm install** para instalar as dependências. 
 Após, execute o comando **npm run init-db** para instalar o banco de dados e para iniciar a aplicação, execute o comando **npm start**.
 
 ### :computer: Tecnologias
